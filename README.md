@@ -1,4 +1,4 @@
-# projeto-cancelamentos-de-reservas
+# Mini-projeto-cancelamentos-de-reservas
 Projeto desenvolvido no curso de Deep Learning da Data Science Academy.
 
 Vamos usar Inteligência Artificial, especificamente Deep Learning, para prever o cancelamento de reservas em hotéis.
