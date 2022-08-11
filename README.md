@@ -3,6 +3,8 @@ Projeto desenvolvido no curso de Deep Learning da Data Science Academy.
 
 Vamos usar Inteligência Artificial, especificamente Deep Learning, para prever o cancelamento de reservas em hotéis.
 Usaremos um conjunto de dados que contém informações de reserva de um hotel urbano e de um hotel resort e inclui informações como quando a reserva foi feita, duração da estadia, número de adultos, data de chegada e número de vagas disponíveis, entre outras informações.
+Primeiro faremos a limpeza dos dados, transformamos todas as variáveis em números e por fim deixaremos todos os dados na mesma escala. 
+Passaremos então para a aprendizagem de máquina propriamente dita.
 Todas as informações de identificação pessoal foram removidas dos dados.
 Fonte de Dados:
 https://www.sciencedirect.com/science/article/pii/S2352340918315191
